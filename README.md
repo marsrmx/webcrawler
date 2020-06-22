@@ -1,6 +1,12 @@
 # Web crawler
 
-For the SocialData Challenge 3.0
+Simple web crawler to download the files from [CONAGUA](https://www.gob.mx/conagua/articulos/calidad-del-agua?idiom=es) and locally store them. The extensions available to download are `xlsb, xlsx and pdf`. 
+
+This data set is going to be use for the SocialData Challenge 3.0
+
+Team - _Agua Artificial_
+
+### Resources
 
 https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/#tag
