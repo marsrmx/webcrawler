@@ -1,0 +1,60 @@
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Superficial 2019.xlsx
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Superficial 2019.zip
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Superficial 2012-2019.xlsx
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Superficial 2012-2019.zip
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Subterránea 2019.xlsx
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Subterránea 2019.zip
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Subterránea 2012-2019.xlsx
+Could not get  http://files.conagua.gob.mx/aguasnacionales/Calidad del Agua Subterránea 2012-2019.zip
+Available files:
+http://sina.conagua.gob.mx/sina/tema.php?tema=calidadAgua&ver=mapa
+https://files.conagua.gob.mx/aguasnacionales/Léntico.xlsb
+https://files.conagua.gob.mx/aguasnacionales/Lótico.xlsb
+https://files.conagua.gob.mx/aguasnacionales/Costero.xlsb
+https://files.conagua.gob.mx/aguasnacionales/Subterraneo.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-AGUASCALIENTES.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-COLIMA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-MORELOS.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-SINALOA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-BAJA CALIFORNIA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-DURANGO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-NAYARIT.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-SONORA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-BAJA CALIFORNIA SUR.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-GUANAJUATO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-NUEVO LEÓN.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-TABASCO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-CAMPECHE.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-GUERRERO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-OAXACA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-TAMAULIPAS.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-CHIAPAS.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-HIDALGO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-PUEBLA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-TLAXCALA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-CHIHUAHUA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-JALISCO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-QUERÉTARO ARTEAGA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-VERACRUZ DE IGNACIO DE LA LLAVE.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-CIUDAD DE MÉXICO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-MÉXICO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-QUINTANA ROO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-YUCATÁN.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-COAHUILA DE ZARAGOZA.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-MICHOACÁN DE OCAMPO.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-SAN LUIS POTOSÍ.xlsb
+https://files.conagua.gob.mx/aguasnacionales/RESULTADOS-ZACATECAS.xlsb
+https://files.conagua.gob.mx/aguasnacionales/TODOS LOS MONITOREOS 2012-2019.xlsb
+http://gisviewer.semarnat.gob.mx/aplicaciones/bacanuchi/graficas/grafFideV2.asp?CHKTPOZO=2&SITIO=38&ELEMENTO=1&FECHAD=&FECHAH=
+https://files.conagua.gob.mx/aguasnacionales/kmz_superficiales.zip
+https://files.conagua.gob.mx/aguasnacionales/kmz_superficiales.xlsx
+https://files.conagua.gob.mx/aguasnacionales/kmz_subterraneos.zip
+https://files.conagua.gob.mx/aguasnacionales/kmz_subterraneos.xlsx
+https://files.conagua.gob.mx/aguasnacionales/calidadagua.xlsx
+https://files.conagua.gob.mx/conagua/generico/calidad_del_agua/diagnostico_atoyac_guerrero_2012-2019.pdf
+https://files.conagua.gob.mx/aguasnacionales/diagnostico_rio_atoyac-puebla_2012-2018.pdf
+https://files.conagua.gob.mx/conagua/generico/calidad_del_agua/diagnostico_rio_zahuapan_2012-2018.pdf
+https://files.conagua.gob.mx/conagua/generico/calidad_del_agua/diagnostico_rio_sabinas_2012-2019.pdf
+https://files.conagua.gob.mx/conagua/generico/calidad_del_agua/diagnostico_rio_santiago_2012-2018.pdf
+https://files.conagua.gob.mx/conagua/generico/calidad_del_agua/diagnostico_lerma_santiago_pacifico_2012-2018.pdf
+https://files.conagua.gob.mx/conagua/generico/calidad_del_agua/diagnostico_lago_chapala_2012-2018.pdf
