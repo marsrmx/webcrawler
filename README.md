@@ -6,6 +6,12 @@ This data set is going to be use for the SocialData Challenge 3.0
 
 Team - _Agua Artificial_
 
+### How to run
+
+```
+python3 webcrawler.py
+```
+
 ### Resources
 
 https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3
