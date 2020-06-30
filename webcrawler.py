@@ -8,12 +8,18 @@ import os
 url = "https://www.gob.mx/conagua/articulos/calidad-del-agua?idiom=es"
 
 def handle_xlsb(file):
-    df = pd.read_excel(file, engine='pyxlsb')
-    return df
+    xlsx = pd.ExcelFile(file, engine='pyxlsb')
+    df_map = {}
+    for sheet_name in xlsx.sheet_names:
+        df_map[sheet_name] = xlsx.parse(sheet_name)
+    return df_map
 
 def handle_xlsx(file):
-    df = pd.read_excel(file)
-    return df
+    xlsx = pd.ExcelFile(file)
+    df_map = {}
+    for sheet_name in xlsx.sheet_names:
+        df_map[sheet_name] = xlsx.parse(sheet_name)
+    return df_map
 
 def save_csv(name, content):
     name = name + ".csv"
@@ -42,11 +48,15 @@ def main():
             split_name = split_link[-2].split("/")
             name = split_name[-1]
             if split_link[-1] == "xlsb":
-                df = handle_xlsb(file)
-                save_csv(name, df)
+                df_map = handle_xlsb(file)
+                for df_key in df_map:
+                    save_csv(name + "_" + df_key, df_map[df_key])
+                
             elif split_link[-1] == "xlsx":
-                df = handle_xlsx(file)
-                save_csv(name, df)
+                df_map = handle_xlsx(file)
+                for df_key in df_map:
+                    save_csv(name + "_" + df_key, df_map[df_key])
+
             elif split_link[-1] == "pdf":
                 save_pdf(name, file)
 
@@ -57,5 +67,13 @@ def main():
     for file in files:
         print(file)
 
+def one_file():
+    file = get_file("https://files.conagua.gob.mx/aguasnacionales/Costero.xlsb")
+    df = handle_xlsb(file)
+    print(df)
+    for sheet in df:
+        save_csv("Costero_" + sheet, df[sheet])
+
 if __name__ == "__main__":
     main()
+    #one_file()
